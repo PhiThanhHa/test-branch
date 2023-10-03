@@ -1,0 +1,1 @@
+console.log("hieu ngu");
